@@ -1,0 +1,9 @@
+{
+    "Users": true,
+    "Core": true,
+    "Vendors": true,
+    "Products": true,
+    "Drivers": true,
+    "CMS": true,
+    "Api": true
+}
